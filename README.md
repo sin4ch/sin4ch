@@ -1,9 +1,15 @@
-### Hi there 👋
+# Hi there, I’m Osinachi Okpara 👋
 
-I'm Osinachi, a Cloud and AI enthusiast, with an intermediate understanding of Python and Azure.
+## About Me
+I’m an aspiring cloud engineer with a passion for learning and implementing AWS services. I’m currently in my final year of my Computer Engineering undergrad at the University of Benin. I’m also looking forward to starting my journey as a cloud blogger on Dev.to and Medium.
 
-- 🌱 I’m currently learning Machine Learning for Cybersecurity to complete my finalist project (i.e building an ML-AIDS)
+## Skills
+AWS Services: Lambda, S3, EC2, CloudWatch
+Programming Language: Python
 
+## Contact Me
+LinkedIn: Osinachi Okpara
+Email: okparaosi17@gmail.com
 <!--
 **sin4ch/sin4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
