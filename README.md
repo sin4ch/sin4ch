@@ -8,7 +8,7 @@ AWS Services: Lambda, S3, EC2, CloudWatch
 Programming Language: Python
 
 ## Contact Me
-LinkedIn: Osinachi Okpara
+LinkedIn: https://www.linkedin.com/in/osinachiokpara/
 Email: okparaosi17@gmail.com
 <!--
 **sin4ch/sin4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
