@@ -1,13 +1,15 @@
 # Hi there, I’m Osinachi Okpara 👋
 
 ## About Me
-I’m an aspiring cloud engineer with a passion for learning and implementing AWS services. I’m currently in my final year of my Computer Engineering undergrad at the University of Benin. I’m also looking forward to starting my journey as a cloud blogger on Dev.to and Medium.
+- I’m a cloud engineer with a passion for learning AWS cloud services and implementing cloud infrastructure  
+- I have a major interest in serverless infrastructure using AWS Lambda, and CI/CD using GitHub Actions
+- I’m a graduate of the University of Benin.  
+- I’m also looking forward to starting my journey as a cloud blogger on Dev.to and Medium.
 
 ## Skills
-AWS Services: AWS Lambda, AWS S3, AWS EC2, AWS CloudWatch, AWS Amplify
-Azure: Azure Machine Learning designer. Azure OpenAI
-Programming Language: Python
-Tools: numpy, pandas, scikit-learn, 
+- AWS Services: AWS Lambda, AWS S3, AWS EC2, AWS CloudWatch, AWS Amplify  
+- Programming Language: Python
+- Tools and technologies: REST APIs, numpy, pandas, scikit-learn, 
 
 ## Contact Me
 LinkedIn: https://www.linkedin.com/in/osinachiokpara/  
