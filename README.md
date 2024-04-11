@@ -4,11 +4,13 @@
 I’m an aspiring cloud engineer with a passion for learning and implementing AWS services. I’m currently in my final year of my Computer Engineering undergrad at the University of Benin. I’m also looking forward to starting my journey as a cloud blogger on Dev.to and Medium.
 
 ## Skills
-AWS Services: Lambda, S3, EC2, CloudWatch
+AWS Services: AWS Lambda, AWS S3, AWS EC2, AWS CloudWatch, AWS Amplify
+Azure: Azure Machine Learning designer. Azure OpenAI
 Programming Language: Python
+Tools: numpy, pandas, scikit-learn, 
 
 ## Contact Me
-LinkedIn: https://www.linkedin.com/in/osinachiokpara/
+LinkedIn: https://www.linkedin.com/in/osinachiokpara/  
 Email: okparaosi17@gmail.com
 <!--
 **sin4ch/sin4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
