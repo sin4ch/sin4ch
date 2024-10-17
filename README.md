@@ -4,7 +4,7 @@
 - I’m an AWS cloud/DevOps engineer, with a major interest in serverless compute
 
 ## Skills
-- DevOps AWS, Docker, Docker Compose, Nginx
+- DevOps: AWS, Docker, Docker Compose, Nginx
 - Programming Languages: Python, HTML, CSS, Bash
 - Tools and technologies: Git, GitHub, VSCode, 
 
