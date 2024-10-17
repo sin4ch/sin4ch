@@ -10,7 +10,9 @@
 
 ## Contact Me
 LinkedIn: https://www.linkedin.com/in/osinachiokpara/  
-X: https://www.x.com/sin4ch
+
+X: https://www.x.com/sin4ch  
+
 Email: okparaosi17@gmail.com
 <!--
 **sin4ch/sin4ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
