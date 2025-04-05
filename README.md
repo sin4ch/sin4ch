@@ -4,9 +4,9 @@
 - I’m an AWS cloud/DevOps engineer, with a major interest in serverless compute
 
 ## Skills
-- DevOps: AWS, Docker, Docker Compose, Nginx
-- Programming Languages: Python, HTML, CSS, Bash
-- Tools and technologies: Git, GitHub, VSCode, 
+Languages: Python, Bash, YAML, HTML, CSS, HCL, JSON
+AWS: EC2, Rekognition, S3, Lambda, CloudFront, Elemental MediaConvert, IAM, CloudFormation
+Tools and Technologies: Git, GitHub, Docker, Nginx, Terraform, GitHub Actions, VSCode, Neovim
 
 ## Contact Me
 LinkedIn: https://www.linkedin.com/in/osinachiokpara/  
