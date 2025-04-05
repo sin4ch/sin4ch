@@ -8,7 +8,7 @@
 <p align="center">
   <h1>Tech Stack</h1>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,bash,html,css,docker,terraform,github,githubactions,linux,md,nginx,py,vim,notion,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=aws,git,bash,html,css,docker,terraform,github,githubactions,linux,ubuntu,md,nginx,py,vim,notion,vscode" />
   </a>
 </p>
 
