@@ -2,7 +2,7 @@
 
 ## About Me
 - ⚡ I’m an AWS Community Builder and DevOps Engineer
-- 🔭 I’m currently working on a face scanning and sorting app using AWS Rekognition, S3 and Lambda with Python
+- 🧑🏽‍💻 I’m currently working on a face scanning and sorting app using AWS Rekognition, S3 and Lambda with Python
 - 🧑‍🤝‍🧑 I'm a huge community person and am very active in the AWS Nigerian, & global, community.
 
 <p align="center">
