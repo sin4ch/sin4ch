@@ -4,6 +4,8 @@
 - ⚡ I’m an AWS Community Builder and DevOps Engineer
 - 🧑🏽‍💻 I’m currently working on a face scanning and sorting app using AWS Rekognition, S3 and Lambda with Python
 - 🧑‍🤝‍🧑 I'm a huge community person and am very active in the AWS Nigerian, & global, community.
+- - ✍🏽 I write on <p><a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://dev.to/sin4ch1">dev.to</a>, <a href="https://everythingdevops.com/author/sin4ch"></a> and <a href="htts://community.aws/@sin4ch">community.aws</a></p>
+
 
 <p align="center">
   <h2>Tech Stack</h2>
