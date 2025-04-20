@@ -2,7 +2,7 @@
 
 ## About Me
 - ⚡ I’m an AWS Community Builder and DevOps Engineer
-- 🧑🏽‍💻 I’m currently working on a face scanning and sorting app using AWS Rekognition, S3 and Lambda with Python
+- 🧑🏽‍💻 I’m currently working on an FAQ Updater API for businesses who want questions frequesntly asked on WhatsAPp to automatically update their website's FAQ. 
 - 🌱 I’m currently learning IaC with Terraform and CloudFormation for the project
 - 🧑‍🤝‍🧑 I'm a huge community person and am very active in the AWS Nigerian, & global, community.
 - ✍🏽 I write on <a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://dev.to/sin4ch1">Dev.to</a>, <a href="https://everythingdevops.com/author/sin4ch">Everything DevOps</a> and <a href="https://community.aws/@sin4ch">community.aws</a>
