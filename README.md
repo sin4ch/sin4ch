@@ -11,7 +11,7 @@
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,bash,html,css,docker,terraform,github,linux,ubuntu,md,nginx,py,vim,neovim,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,git,bash,html,css,docker,fastapi,terraform,github,linux,ubuntu,md,nginx,py,vim,neovim,notion,vscode" />
   </a>
 </p>
 
