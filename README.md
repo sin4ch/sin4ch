@@ -1,7 +1,7 @@
 # Hi there, I’m Osinachi Okpara 👋
 
 ## About Me
-- ⚡ I’m an AWS Community Builder and DevOps Engineer
+- ⚡ I’m an AWS Community Builder and Cloud engineer
 - 🧑🏽‍💻 I’m currently working on an FAQ Updater API for businesses who want questions frequently asked to their WhatsApp bots to automatically update their website's FAQ. 
 - 🌱 I’m currently learning FastAPI and SQL (SQLite & PostgreSQL) for the project.
 - 🧑‍🤝‍🧑 I'm a huge community person and am very active in the AWS Nigerian, & global, community.
