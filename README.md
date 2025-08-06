@@ -1,7 +1,9 @@
 # Hi there, I’m Osinachi Okpara 👋
 
 ## About Me
-- ⚡ I’m an AWS Community Builder, passionate about Developer relations and cloud/Devops engineering
+- ⚡ I’m an AWS Community Builder, passionate about developer relations and cloud/Devops engineering
+  
+- 🔥 I'm also interested in agentic AI, Python and FastAPI
 
 - 🧑‍🤝‍🧑 I'm a huge community person and am very active in the AWS Nigerian, & global, community.
 
