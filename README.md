@@ -10,6 +10,11 @@
 
 - ✍🏽 I write on <a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://dev.to/sin4ch1">Dev.to</a>, <a href="https://everythingdevops.com/author/sin4ch">Everything DevOps</a>, <a href="https://sin4ch1.substack.com">Substack</a> and <a href="https://community.aws/@sin4ch">AWS Builder Center</a>
 
+---
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sin4ch&show_icons=true&include_all_commits=true&hide_border=true" alt="sin4ch's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin4ch&langs_count=8&layout=compact&hide_border=true" alt="sin4ch's GitHub stats" /> |
+| ------------- | ------------- |
+
 
 <p align="center">
   <h2>Tech Stack</h2>
