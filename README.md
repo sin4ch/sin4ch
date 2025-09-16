@@ -1,12 +1,12 @@
 # Hi there, I’m Osinachi Okpara 👋
 
-- ⚡ I’m an AWS-certified software engineer and AWS Community Builder, passionate about API & agentic AI development with Python, AWS cloud/DevOps engineering, as well as developer relations and community building.
+- ⚡ I’m a software engineer & developer relations engineer, focusing on agentic AI, backend and cloud engineering.
   
-- 🌱 I’m currently learning A LOT about agentic and AI workflow development, especially RAG (embeddings and vector databases), MCPs with FastMCP, agent and multi-agent/agent orchestration frameworks like Agno, PydanticAI etc.
+- 🌱 I’m currently learning A LOT about MCP, agents and RAG.
   
-- 🔭 I’m currently working on a Nigerian personal banking MCP that "banks" - pun intended - on the Mono v2 API for 'Open Banking' using FastMCP. I intend to use this MCP to build a personal banking agent using PydanticAI and Gemini Live MCP/API.
+- 🔭 I’m currently working on a project that allows you to use natural language to perform banking operations.
   
-- 📢 I'm also currently building a lot in the OSS space and it's been really fun so far.
+- 📢 I'm also currently building a lot in the OSS space, and it's been really fun so far.
 
 - ✍🏽 I write on <a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://dev.to/sin4ch1">Dev.to</a>, <a href="https://everythingdevops.com/author/sin4ch">Everything DevOps</a>, <a href="https://sin4ch1.substack.com">Substack</a> and <a href="https://community.aws/@sin4ch">AWS Builder Center</a>
 
