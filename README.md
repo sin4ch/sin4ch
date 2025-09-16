@@ -1,6 +1,6 @@
 # Hi there, I’m Osinachi Okpara 👋
 
-- ⚡ I’m a software engineer & developer relations engineer, focusing on agentic AI, backend and cloud engineering.
+- ⚡ I’m a software engineer & developer advocate, focusing on agentic AI, backend and cloud engineering.
   
 - 🌱 I’m currently learning A LOT about MCP, agents and RAG.
   
