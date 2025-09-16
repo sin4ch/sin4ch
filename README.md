@@ -1,6 +1,6 @@
 # Hi there, I’m Osinachi Okpara 👋
 
-I’m a software engineer, developer advocate and open-source contributor, focusing on agentic AI, backend, cloud engineering.
+I’m a software engineer, developer advocate and open-source contributor, focusing on agentic AI, Python and AWS.
 
 I'm also an <a href="https://builder.aws.com/community/@sin4ch">AWS Community Builder</a>.
 
