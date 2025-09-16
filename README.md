@@ -8,7 +8,7 @@ Check my written work on <a href="https://medium.com/@sin4ch">Medium</a>, <a hre
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sin4ch&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent" alt="sin4ch's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin4ch&langs_count=8&layout=compact&hide_border=true&theme=transparent" alt="sin4ch's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=sin4ch&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true" alt="sin4ch's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin4ch&theme=transparent&langs_count=8&layout=compact&hide_border=true" alt="sin4ch's GitHub stats" /> |
 | ------------- | ------------- |
 
 
