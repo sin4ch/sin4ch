@@ -1,12 +1,6 @@
 # Hi there, I’m Osinachi Okpara 👋
 
-- ⚡ I’m a software engineer & developer advocate, focusing on agentic AI, backend and cloud engineering.
-  
-- 🌱 I’m currently learning A LOT about MCP, agents and RAG.
-  
-- 🔭 I’m currently working on a project that allows you to use natural language to perform banking operations.
-  
-- 📢 I'm also currently building a lot in the OSS space, and it's been really fun so far.
+I’m a software engineer, developer advocate and open-source contributor, focusing on agentic AI, backend, cloud engineering.
 
 - ✍🏽 I write on <a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://dev.to/sin4ch1">Dev.to</a>, <a href="https://everythingdevops.com/author/sin4ch">Everything DevOps</a>, <a href="https://sin4ch1.substack.com">Substack</a> and <a href="https://community.aws/@sin4ch">AWS Builder Center</a>
 
