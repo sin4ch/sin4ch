@@ -4,7 +4,7 @@ I’m a software engineer, developer advocate and open-source contributor, focus
 
 I'm also an <a href="https://builder.aws.com/community/@sin4ch">AWS Community Builder</a>.
 
-Check my written work on <a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://dev.to/sin4ch1">Dev.to</a>, <a href="https://everythingdevops.com/author/sin4ch">Everything DevOps</a>, <a href="https://sin4ch1.substack.com">Substack</a> and <a href="https://builder.aws.com/community/@sin4ch">AWS Builder Center</a>
+Check my written work on <a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://dev.to/sin4ch1">Dev.to</a>, <a href="https://www.everythingdevops.dev/search?query=osinachi+okpara">Everything DevOps</a>, <a href="https://sin4ch1.substack.com">Substack</a> and <a href="https://builder.aws.com/community/@sin4ch">AWS Builder Center</a>
 
 ---
 
