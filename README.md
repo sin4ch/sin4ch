@@ -1,4 +1,4 @@
-# Hi there, I’m Osinachi Okpara 👋
+Hi, there! I’m **Osinachi** 👋
 
 I’m a software engineer, developer advocate and open-source contributor, focusing on agentic AI, Python and AWS.
 
