@@ -13,7 +13,7 @@ Check my written work on <a href="https://medium.com/@sin4ch">Medium</a>, <a hre
 <p align="center">
   <h2>Tech Stack</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git,github,bash,linux,ubuntu,vim,neovim,nginx,html,css,py,fastapi,docker,terraform,postgres,md,notion,vscode" />
+    <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,bash,linux,ubuntu,vim,neovim,nginx,html,css,py,fastapi,javascript,typescript,express,docker,terraform,postgres,md,notion,vscode" />
   </a>
 </p>
 
