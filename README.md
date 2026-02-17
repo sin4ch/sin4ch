@@ -1,12 +1,12 @@
 Hi, there! I’m **Osinachi** 👋
 
-I’m a software engineer, developer advocate and open-source contributor.
+I’m a software engineer, developer advocate, and open-source contributor.
 
-A lot of my work encompasses AI and backend engineering. I'm currently working on and building MCP servers & apps (using the MCP Apps SDK).
+A lot of my work encompasses AI and backend engineering. I'm currently working on MCP servers, and MCP apps (using the MCP Apps SDK).
 
-I'm also kind of learning frontend/UX engineering to build better agentic interfaces. 
+I'm also kind of learning frontend/UX engineering to enhance my design engineering skills and build better agentic interfaces. 
 
-I've an <a href="https://builder.aws.com/community/@sin4ch">AWS Community Builder</a> since 2025.
+I've been an <a href="https://builder.aws.com/community/@sin4ch">AWS Community Builder</a> since 2025.
 
 Check my written work on <a href="https://medium.com/@sin4ch">Medium</a>, <a href="https://www.everythingdevops.dev/search?query=osinachi+okpara">Everything DevOps</a>, <a href="https://sin4ch1.substack.com">Substack</a> and <a href="https://builder.aws.com/community/@sin4ch">AWS Builder Center</a>
 
